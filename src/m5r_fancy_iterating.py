@@ -14,11 +14,11 @@ is different from:
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
          and Jack Wilson.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 ###############################################################################
-# TODO: 2. READ the program below and RUN it.
+# DONE: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand:
@@ -166,7 +166,7 @@ def sum_items_at_even_indices(sequence):
     # EXAMPLE 3.  Iterates through and sums the items in a list
     #   of numbers that are at even INDICES.
     #
-    #   Constrast this example with the previous example.
+    #   Contrast this example with the previous example.
     # -------------------------------------------------------------------------
     total = 0
     for k in range(0, len(sequence), 2):
